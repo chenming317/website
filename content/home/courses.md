@@ -58,13 +58,13 @@ weight = 60
 				<tbody>
 					<tr>
 						<td><font size="4">
-							<a href="http://cs231n.stanford.edu/", target="_blank"> cs231n - Convolutional Neural Networks for Visual Recognition</a> 
+							<a href="http://cs231n.stanford.edu/", target="_blank"> Stanford cs231n - Convolutional Neural Networks for Visual Recognition</a> 
 							(<a href="https://github.com/coky/cs231n", target="_blank">Homework</a>)</font></td>
 					</tr>
 
 					<tr>
 						<td><font size="4">
-							<a href="https://www.coursera.org/learn/machine-learning", target="_blank"> Andrew Ng - Machine Learning</a></font></td>
+							<a href="https://www.coursera.org/learn/machine-learning", target="_blank"> Stanford Andrew Ng - Machine Learning</a></font></td>
 					</tr>
 
 					<tr>

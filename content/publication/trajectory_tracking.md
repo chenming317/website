@@ -25,7 +25,7 @@ abstract = "In order to solve the problem of motion when in contact with the env
 abstract_short = " "
 
 # Featured image thumbnail (optional)
-image_preview = "trajectory tracking circle impedance small-50.gif"
+image_preview = "trajectory tracking circle impedance.gif"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,19 +36,19 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/基于阻抗控制的工业机器人轨迹跟踪系统设计（东南大学-陈明）-20170911.pdf"
+url_pdf = "pdf/基于阻抗控制的工业机器人轨迹跟踪系统设计_陈明_20170911.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "files/基于阻抗控制的工业机器人轨迹跟踪系统设计_陈明_20171026.pdf"
+url_slides = "pdf/基于阻抗控制的工业机器人轨迹跟踪系统设计_陈明_20171028.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Details", url = "publication/trajectory_tracking"}]
+#url_custom = [{name = "Details", url = "publication/trajectory_tracking"}]
 
 # Does the content use math formatting?
 math = true

@@ -1,6 +1,6 @@
 +++
 title = "Initial Welding Point Selection and Optimal Trajectory Planning for Multi-Robots Cooperative Welding Systems"
-date = "2017-08-16"
+date = "2017-07-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pan Jianlong", "Gan Yahui", "Chen Ming", "Dai Xianzhong"]
@@ -25,7 +25,7 @@ abstract = "To eliminate the shortcomings of manual teaching in the multiple rob
 abstract_short = " "
 
 # Featured image thumbnail (optional)
-image_preview = "3 robots cooperative welding small-50.gif"
+image_preview = "3 robots cooperative welding.gif"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,7 +36,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "files/多机器人协作焊接系统初始焊接位置选取及最优轨迹规划_潘建龙.pdf"
+url_pdf = "pdf/多机器人协作焊接系统初始焊接位置选取及最优轨迹规划_潘建龙_20170726.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -48,7 +48,7 @@ url_pdf = "files/多机器人协作焊接系统初始焊接位置选取及最优
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Details", url = "publication/initial-welding-point-selection"}]
+#url_custom = [{name = "Details", url = "publication/initial-welding-point-selection"}]
 
 # Does the content use math formatting?
 math = true
